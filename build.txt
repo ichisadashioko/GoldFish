@@ -1,0 +1,3 @@
+displayName = Gold Fish
+author = shioko
+version = 0.1
